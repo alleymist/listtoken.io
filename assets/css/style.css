@@ -2402,12 +2402,12 @@ textarea.form-control{
 /* 20 - Page Name Section
 ---------------------------------------------------------------------- */
 .page-name-sec .pattern {
-	min-height: 270px;
+	min-height: 200px;
 }
 .page-name-sec .page-name {
-	margin: 110px 0 25px 0;
+	margin: 70px 0 25px 0;
 	color: #ffffff;
-	font-size: 3.4375em;
+	font-size: 3.2375em;
 	font-weight: 900;
 	text-align: center;
 	text-transform: uppercase;

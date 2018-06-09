@@ -4741,7 +4741,22 @@ a.thumbnail.active {
 	color: #31708f
 }
 
+
 .alert-info hr {
+	border-top-color: #a6e1ec
+}
+
+.alert-info .alert-link {
+	color: #245269
+}
+
+.alter-theme {
+	background-color: #1fb5ac;
+	border-color: #bce8f1;
+	color: #31708f
+}
+
+.alert-theme hr {
 	border-top-color: #a6e1ec
 }
 
